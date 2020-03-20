@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 def search_accelabre_customized_stepsize(s):
 
     def function(x):
-
+        
         return x * (x - 1.5)
 
     plt.plot(np.arange(-25, 25), function(np.arange(-25, 25)))

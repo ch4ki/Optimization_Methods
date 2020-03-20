@@ -28,7 +28,6 @@ class dischotomous_search:
     """
 
     def __init__(self, function, interval, precision, siqma=0.001):
-        # self.f = function
         self.function = function
         self.interval = interval
         self.precision = precision
