@@ -12,7 +12,7 @@ results are compared in table for maximum permissible errors of 0.1 and 0.01. It
 can be seen that to achieve any specified accuracy, the Fibonacci method requires the
 least number of experiments, followed by the golden section method.
 
-![Table](https://hizliresim.com/P79Yvl.png)
+![Table](table.png)
 ```python
 import method_name
 gdkq = method_name(objective_function,interval,accuracy)
