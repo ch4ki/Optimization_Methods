@@ -3,7 +3,7 @@ My Optimization Algorithms
 The efficiency of an elimination method can be measured in terms of the ratio of the
 final and the initial intervals of uncertainty, Ln/L0. The values of this ratio achieved
 in various methods for a specified number of experiments (n = 5 and n = 10) are
-compared in Table 5.3. It can be seen that the Fibonacci method is the most effi-
+compared in Table. It can be seen that the Fibonacci method is the most effi-
 cient method, followed by the golden section method, in reducing the interval of
 uncertainty.
 A similar observation can be made by considering the number of experiments (or
